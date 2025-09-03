@@ -4,7 +4,8 @@ import java.lang.Math;
 public class Checkpoint1_Java_010925 {
     static Scanner input = new Scanner(System.in);
 
-    public static class ExerciciosJava1 {
+    public static class exercicio1 {
+        // Exercício 1: Escreva um programa que leia um número em metros e converta para centímetros e milímetros.
         public static void main (String[] args) {
             Scanner leitor = new Scanner(System.in);
             System.out.println("Digite o valor em metros: ");
@@ -16,7 +17,8 @@ public class Checkpoint1_Java_010925 {
         }
     }
 
-    public static class ExerciciosJava2 {
+    public static class exercicio2 {
+        // Exercício 2: Crie um programa que leia a idade de uma pessoa e diga se ela pode votar (idade ≥ 16).
         public static void main (String[] args) {
             Scanner leitor = new Scanner(System.in);
             System.out.println("Digite a sua idade: ");
@@ -31,7 +33,8 @@ public class Checkpoint1_Java_010925 {
         }
     }
 
-    public static class ExerciciosJava3 {
+    public static class exercicio3 {
+        // Exercício 3: Escreva um programa que leia dois números e mostre todos os números inteiros entre eles.
         public static void main (String[] args) {
             Scanner leitor1 = new Scanner(System.in);
             System.out.println("Digite o primeiro número: ");
@@ -65,7 +68,8 @@ public class Checkpoint1_Java_010925 {
         }
     }
 
-    public static class ExerciciosJava4 {
+    public static class exercicio4 {
+        // Exercício 4: Crie uma função que receba um número inteiro e retorne seu fatorial. Teste no main.
         public static void main(String[] args) {
             Scanner leitor = new Scanner(System.in);
             System.out.println("Digite um número inteiro: ");
@@ -82,7 +86,8 @@ public class Checkpoint1_Java_010925 {
         }
     }
 
-    public static class ExerciciosJava5 {
+    public static class exercicio5 {
+        // Exercício 5: Escreva um programa que leia 10 números inteiros e calcule quantos são pares e quantos são ímpares.
         public static void main (String[] args) {
 
 
